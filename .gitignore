@@ -16,3 +16,6 @@ docs/
 # Art
 *.png
 art/output/
+
+# Node
+/node_modules
